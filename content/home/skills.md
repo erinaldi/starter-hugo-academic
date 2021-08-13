@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Skills
 subtitle:
@@ -16,18 +16,25 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+- description: Obtain and analyze data to inform decisions. Probabilistic Inference.
+    Descriptive Statistics. Time Series Analysis.
+  icon: chart-area
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Data Driven
+- description: Simplify complex systems using models defined by mathematical equations.
+    Algorithm development.
+  icon: pencil-alt
   icon_pack: fas
-  name: Photography
+  name: Mathematical Modeling
+- description: Python (PyTorch, TensorFlow, Keras), C/C++, Shell, Lua
+  icon: code
+  icon_pack: fas
+  name: Programming
+- description: Excellent interpersonal skills. Team leader and team player. Outstanding
+    presentation skills
+  icon: users
+  icon_pack: fas
+  name: Team player
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

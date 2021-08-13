@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Enrico Rinaldi # Website name
+baseurl: '/' # Website URL # change this to https://quark.phy.bnl.gov/~erinaldi/ for quark deploy
+copyright: '© {year} ER' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
