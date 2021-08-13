@@ -40,5 +40,5 @@ links:
 
 For more information see the following conference that I have organized together with some collaborators:
 
-* Deep Learning and Physics (Japan): [DLAP2019](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2019/)
-* Machine Learning for High Energy Physics, on and off the Lattice (Italy): [ECTs](https://indico.ectstar.eu/event/77/)
+* Deep Learning and Physics (Japan): [DLAP2019 conference](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2019/)
+* Machine Learning for High Energy Physics, on and off the Lattice (Italy): [ECTs workshop](https://www.ectstar.eu/workshops/machine-learning-for-high-energy-physics-on-and-off-the-lattice/)
