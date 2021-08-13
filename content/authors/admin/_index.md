@@ -66,4 +66,4 @@ My expertise is in Markov Chain Monte Carlo (MCMC) numerical simulations of quan
 
 In the past, I worked as an AI Researcher and Engineer at Arithmer Inc., a robotics and artificial intelligence startup in Tokyo, Japan. My research topics were focused around applications of 3D computer vision to enhance automatic measurements and decision making processes based on high-dimensional data. The importance of data and of the inductive bias of specific deep learning architectures were crucial to obtain functional models in these domains. I also worked as a AI and Computational Physics consultant for other startups in Tokyo and as a teacher for Data Science Bootcamps at Le Wagon Tokyo (trying to inspire the future generation of data scientist!).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
