@@ -1,7 +1,7 @@
 ---
 abstract: ''
-date: 2020-07-06 16:00:00-04:00
-date_end: 2020-07-06 17:00:00-04:00
+date: 2021-07-06 16:00:00-04:00
+date_end: 2021-07-06 17:00:00-04:00
 event: Invited seminar
 event_url: ''
 featured: true
@@ -26,4 +26,3 @@ url_pdf: https://www.dropbox.com/s/xkrf995462594xm/SBI_RinaldiE_45min.pdf?dl=0
 url_slides: https://www.dropbox.com/s/xkrf995462594xm/SBI_RinaldiE_45min.pdf?dl=0
 url_video: ''
 ---
-
