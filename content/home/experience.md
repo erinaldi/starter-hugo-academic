@@ -31,10 +31,20 @@ experience:
     \ students.\n  "
   location: Ann Arbor, MI
   title: Research Scientist
+- company: RIKEN Center for Quantum Computing
+  company_url: https://rqc.riken.jp/en/
+  date_end: ''
+  date_start: '2021-09-01'
+  description: "  Research on quantum algorithms for quantum field theory,\
+    \ Projects\
+    \ are related to:\n\n * Matrix Models\n  * Lattice\
+    \ Field Theories\n * Variational Quantum Algorithms\n * Quantum Information\n  "
+  location: Wako
+  title: Visiting Research Scientist
 - company: Theoretical Quantum Physics Laboratory
   company_url: https://dml.riken.jp
   date_end: ''
-  date_start: '2020-03-01'
+  date_start: '2021-03-01'
   description: "  Research on open quantum systems and combinatorial optimization,\
     \ taking advantage of machine learning and quantum computing simulations. Projects\
     \ are related to:\n\n  * Dynamics of OQS\n  * Matrix Models\n  * Graph Neural\
@@ -53,7 +63,7 @@ experience:
   title: Visiting Research Scientist
 - company: Arithmer Inc.
   company_url: https://arithmer.co.jp
-  date_end: '2020-03-01'
+  date_end: '2021-02-28'
   date_start: '2019-10-01'
   description: "  Working on state-of-the-art deep learning algorithms in 3D Computer\
     \ Vision for robotics and computer graphics. Responsibilities included:\n\n  *\
