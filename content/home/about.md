@@ -7,7 +7,7 @@ title: Profile
 active: true
 author: admin
 ---
-I am a Research Scientist at the University of Michigan, based in Tokyo, hosted by the Theoretical Quantum Physics Laboratory at the Center for Pioneering Research at RIKEN, Wako.
+I am a Research Scientist at the University of Michigan, based in Tokyo, hosted by the RIKEN Center for Quantum Computing (RQC) and the Theoretical Quantum Physics Laboratory at the Cluster for Pioneering Research at RIKEN, Wako.
 
 I am also a Visiting Scientist of the RIKEN Interdisciplinary Theoretical and Mathematical Sciences Program, where I collaborate on projects in Quantum Computing, Cosmology, and Dark Matter theories.
 

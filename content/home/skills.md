@@ -26,7 +26,7 @@ feature:
   icon: pencil-alt
   icon_pack: fas
   name: Mathematical Modeling
-- description: Python (PyTorch, TensorFlow, Keras), C/C++, Shell, Lua
+- description: Python (PyTorch, TensorFlow, Keras), Julia, C/C++, Fortran
   icon: code
   icon_pack: fas
   name: Programming

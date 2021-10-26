@@ -32,7 +32,9 @@ social:
 organizations:
   - name: University of Michigan
     url: https://umich.edu/
-  - name: Theoretical Quantum Physics, Center of Pioneering Research
+  - name: RIKEN Center for Quantum Computing
+    url: https://rqc.riken.jp/en
+  - name: Theoretical Quantum Physics, Cluster of Pioneering Research
     url: https://dml.riken.jp
   - name: RIKEN iTHEMS
     url: https://ithems.riken.jp/en
@@ -52,7 +54,7 @@ highlight_name: false
 title: Enrico Rinaldi
 email: ""
 ---
-I am a Research Scientist at the University of Michigan, and I am based in Tokyo, hosted by the Theoretical Quantum Physics Laboratory at the Center for Pioneering Research at RIKEN, Wako.
+I am a Research Scientist at the University of Michigan, based in Tokyo, hosted by the RIKEN Center for Quantum Computing (RQC) and the Theoretical Quantum Physics Laboratory at the Cluster for Pioneering Research at RIKEN, Wako.
 
 I am also a Visiting Scientist of the RIKEN Interdisciplinary Theoretical and Mathematical Sciences Program, where I collaborate on projects in Quantum Computing, Cosmology, and Dark Matter theories.
 
