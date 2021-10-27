@@ -1,5 +1,6 @@
 ---
-abstract: ''
+abstract: Can we use quantum computing to answer important questions in quantum field theory? Once we can formulate the problem on a quantum computer, the next step is to benchmark different algorithms in practice and find the best way forward. I will present an application of the variational quantum eigensolver (VQE) to a supersymmetric quantum field theory and identify the required resources for future calculations.
+
 date: 2021-10-20 16:00:00-04:00
 date_end: 2021-10-20 17:00:00-04:00
 event: Invited seminar
@@ -21,7 +22,8 @@ tags:
 - Quantum Computing
 - Quantum Gravity
 - Deep Learning
-- seminar
+- Seminar
+
 title: Benchmarking quantum algorithms for quantum field theory
 url_code: ''
 url_pdf: https://www.dropbox.com/s/h79fa8wkgai49lp/BenchQC_ERinaldi_25min.pdf?dl=0
