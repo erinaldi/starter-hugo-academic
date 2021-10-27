@@ -1,5 +1,5 @@
 ---
-abstract: 'Applications of Machine Learning to Particle Physics'
+abstract: Applications of Machine Learning to Particle Physics
 date: 2019-06-13 16:00:00-04:00
 date_end: 2019-06-13 17:00:00-04:00
 event: Invited seminar
@@ -19,11 +19,11 @@ tags:
 - Machine Learning
 - Data Science
 - Deep Learning
-- seminar
+- Seminar
+
 title: The Data Science of Physics
 url_code: ''
-url_pdf: ''
-url_slides: https://drive.google.com/uc?export=download&id=1WcJTuNJqodKDsoJAodJDGkdjqFTvJDx-
+url_pdf: https://www.dropbox.com/s/mewlrpaot9li0ez/Rinaldi_Enrico_DataSciencePhysics.pdf?dl=0
+url_slides: https://www.dropbox.com/s/mewlrpaot9li0ez/Rinaldi_Enrico_DataSciencePhysics.pdf?dl=0
 url_video: ''
 ---
-
