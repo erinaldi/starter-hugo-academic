@@ -4,7 +4,7 @@
 title: "Simulation-based inference for multi-type cortical circuits."
 event: "Kinds of Minds - what is thinking?"
 event_url: https://kagihub.riken.jp/riken_oist_joint_symposium_s2.html
-location: Virtual workshop on Zoom
+location: RIKEN-OIST Joint Symposium on AI/Data and Neuroscience
 address:
   street:
   city:
