@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Short Range Operator Contributions to $0backslashnubackslashbetabackslashbeta$
+title: Short Range Operator Contributions to $0\nu\beta\beta$
   decay from LQCD
 subtitle: ''
 summary: ''

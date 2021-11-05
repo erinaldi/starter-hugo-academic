@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2021-11-05T00:36:57.525886Z'
 publication_types:
-- '2'
+- '1'
 abstract: "The actual knowledge of the structure and future evolution of our universe\
   \ is based on the use of cosmological models, which can be tested through the so-called\
   \ 'probes', namely astrophysical phenomena, objects or structures with peculiar\
