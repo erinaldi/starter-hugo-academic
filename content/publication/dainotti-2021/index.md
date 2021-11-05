@@ -70,6 +70,10 @@ url_pdf: https://iopscience.iop.org/article/10.3847/1538-4357/abeb73
 doi: 10.3847/1538-4357/abeb73
 ---
 
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.3847/1538-4357/abeb73" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 Institutional press releases related to this publication:
 
 1. [University of Michigan](https://news.umich.edu/an-inconstant-hubble-constant-u-m-research-suggests-fix-to-cosmological-cornerstone/)
