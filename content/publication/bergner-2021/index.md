@@ -10,7 +10,7 @@ authors:
 - Norbert Bodendorfer
 - Masanori Hanada
 - Stratos Pateloudis
-- Enrico Rinaldi
+- admin
 - Andreas Schäfer
 - Pavlos Vranas
 - Hiromasa Watanabe

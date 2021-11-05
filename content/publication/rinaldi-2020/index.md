@@ -5,7 +5,7 @@ title: Machine Learning Tackles Spacetime
 subtitle: ''
 summary: ''
 authors:
-- Enrico Rinaldi
+- admin
 tags: []
 categories: []
 date: '2020-03-01'

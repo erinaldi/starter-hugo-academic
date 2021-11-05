@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Evan Berkowitz
 - Michael I. Buchoff
-- Enrico Rinaldi
+- admin
 tags:
 - '"axion"'
 - '"finiteT"'
@@ -40,24 +40,24 @@ abstract: One intriguing BSM particle is the QCD axion, which could simultaneous
   the dark matter density in the universe. This particle is a pNGB of the conjectured
   Peccei-Quinn (PQ) symmetry of the Standard Model. Its mass and interactions are
   suppressed by a heavy symmetry breaking scale, $f_a$, whose value is roughly greater
-  than $10^9$ GeV (or, conversely, the axion mass, $m_a$, is roughly less than $10^4backslash
-  backslashmu backslashtexteV$). The density of axions in the universe, which cannot
+  than $10^9$ GeV (or, conversely, the axion mass, $m_a$, is roughly less than $10^4\
+  \mu \texteV$). The density of axions in the universe, which cannot
   exceed the relic dark matter density and is a quantity of great interest in axion
   experiments like ADMX, is a result of the early-universe interplay between cosmological
   evolution and the axion mass as a function of temperature. The latter quantity is
   proportional to the second derivative of the QCD free energy with respect to the
-  CP-violating phase, $backslashtheta$. However, this quantity is generically non-perturbative
+  CP-violating phase, $\theta$. However, this quantity is generically non-perturbative
   and previous calculations have only employed instanton models at the high temperatures
   of interest (roughly 1 GeV). In this and future works, we aim to calculate the temperature-dependent
-  axion mass at small $backslashtheta$ from first-principle lattice calculations,
+  axion mass at small $\theta$ from first-principle lattice calculations,
   with controlled statistical and systematic errors. Once calculated, this temperature-dependent
   axion mass is input for the classical evolution equations of the axion density of
   the universe. Due to a variety of lattice systematic effects at the very high temperatures
-  required, we perform a calculation of the leading small-$backslashtheta$ cumulant
+  required, we perform a calculation of the leading small-$\theta$ cumulant
   of the theta vacua on large volume lattices for SU(3) Yang-Mills with high statistics
   as a first proof of concept, before attempting a full QCD calculation in the future.
   From these pure glue results, the misalignment mechanism yields the axion mass bound
-  $m_a backslashgeq (14.6backslashpm0.1) backslash backslashmu backslashtexteV$ when
+  $m_a \geq (14.6\pm0.1) \ \mu \texteV$ when
   PQ-breaking occurs after inflation.
 publication: '*Physical Review D*'
 url_pdf: http://arxiv.org/abs/1505.07455 http://inspirehep.net/record/1373476 http://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.034507

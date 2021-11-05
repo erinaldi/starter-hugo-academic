@@ -9,7 +9,7 @@ authors:
 - Luigi Del Debbio
 - Richard D. Kenway
 - Eliana Lambrou
-- Enrico Rinaldi
+- admin
 tags: []
 categories: []
 date: '2013-07-01'
@@ -38,7 +38,7 @@ abstract: We extend to large lattices the work of a previous investigation of th
   phase diagram of the anisotropic five-dimensional SU(2) Yang-Mills model using Monte
   Carlo simulations in the regime where the lattice spacing in the fifth dimension
   is larger than in the other four dimensions. We find a first order phase transition
-  between the confining and deconfining phase at the anisotropic parameter point $backslashbeta_4=2.60$
+  between the confining and deconfining phase at the anisotropic parameter point $\beta_4=2.60$
   which was previously claimed to be the critical point at which the order of the
   transition changes from first to second. We conclude that large lattices are required
   to establish the first order nature of this line of transitions and consequently

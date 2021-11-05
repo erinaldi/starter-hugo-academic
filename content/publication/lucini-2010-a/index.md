@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Biagio Lucini
 - Antonio Rago
-- Enrico Rinaldi
+- admin
 tags:
 - '"High Energy Physics - Lattice"'
 categories: []
@@ -43,7 +43,7 @@ abstract: The lowest-lying glueball masses are computed in SU($N$) gauge theory 
   of any size and shape in any irreducible representation of the cubic group. A good
   signal is extracted for the ground state and the first excitation in several symmetry
   channels. It is shown that all the observed states are well described by their large
-  $N$ values, with modest $backslashcal O(1/N^2)$ corrections. In addition spurious
+  $N$ values, with modest $\cal O(1/N^2)$ corrections. In addition spurious
   states are identified that couple to torelon and scattering operators.
 publication: '*Proceedings of The XXVIII International Symposium on Lattice Field
   Theory — PoS(Lattice 2010)*'

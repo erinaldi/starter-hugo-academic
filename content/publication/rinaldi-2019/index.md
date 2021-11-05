@@ -6,7 +6,7 @@ title: Lattice QCD determination of neutron-antineutron matrix elements with phy
 subtitle: ''
 summary: ''
 authors:
-- Enrico Rinaldi
+- admin
 - Sergey Syritsyn
 - Michael L. Wagman
 - Michael I. Buchoff

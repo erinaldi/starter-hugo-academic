@@ -7,7 +7,7 @@ summary: ''
 authors:
 - David Schaich
 - Anna Hasenfratz
-- Enrico Rinaldi
+- admin
 - for the LSD Collaboration
 tags: []
 categories: []
@@ -35,8 +35,8 @@ publication_types:
 - '2'
 abstract: We present new lattice investigations of finite-temperature transitions
   for SU(3) gauge theory with Nf=8 light flavors. Using nHYP-smeared staggered fermions
-  we are able to explore renormalized couplings $g^2 backslashlesssim 20$ on lattice
-  volumes as large as $48^3 backslashtimes 24$. Finite-temperature transitions at
+  we are able to explore renormalized couplings $g^2 \lesssim 20$ on lattice
+  volumes as large as $48^3 \times 24$. Finite-temperature transitions at
   non-zero fermion mass do not persist in the chiral limit, instead running into a
   strongly coupled lattice phase as the mass decreases. That is, finite-temperature
   studies with this lattice action require even larger $N_T textgreater 24$ to directly

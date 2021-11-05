@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Evan Berkowitz
-- Enrico Rinaldi
+- admin
 - Masanori Hanada
 - Goro Ishiki
 - Shinji Shimasaki
@@ -42,7 +42,7 @@ publication_types:
 - '2'
 abstract: We pioneer a systematic, large-scale lattice simulation of D0-brane quantum
   mechanics. The large-$N$ and continuum limits of the gauge theory are taken for
-  the first time at various temperatures $0.4 backslashleq T backslashleq 1.0$. As
+  the first time at various temperatures $0.4 \leq T \leq 1.0$. As
   a way to directly test the gauge/gravity duality conjecture we compute the internal
   energy of the black hole directly from the gauge theory and reproduce the coefficient
   of the supergravity result $E/N^2=7.41T^14/5$. This is the first confirmation of

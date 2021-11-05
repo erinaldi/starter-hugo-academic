@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Sergio Caracciolo
-- Enrico Rinaldi
+- admin
 - Andrea Sportiello
 tags:
 - '"High Energy Physics - Lattice"'

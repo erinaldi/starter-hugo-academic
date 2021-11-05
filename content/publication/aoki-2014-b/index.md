@@ -12,7 +12,7 @@ authors:
 - Kohtaroh Miura
 - Hiroshi Ohki
 - Kei-ichi Nagai
-- Enrico Rinaldi
+- admin
 - Akihiro Shibata
 - Koichi Yamawaki
 - Takeshi Yamazaki

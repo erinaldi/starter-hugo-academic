@@ -5,7 +5,7 @@ title: Scalar mass corrections from compact extra dimensions on the lattice
 subtitle: ''
 summary: ''
 authors:
-- Enrico Rinaldi
+- admin
 - Luigi Del Debbio
 tags: []
 categories: []

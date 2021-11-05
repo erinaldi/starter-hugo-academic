@@ -15,7 +15,7 @@ authors:
 - E. T. Neil
 - J. C. Osborn
 - Claudio Rebbi
-- Enrico Rinaldi
+- admin
 - David Schaich
 - Chris Schroeder
 - Sergey Syritsyn
@@ -47,7 +47,7 @@ publishDate: '2021-11-05T00:37:11.409778Z'
 publication_types:
 - '2'
 abstract: 'We present a new model of \"Stealth Dark Matter\": a composite baryonic
-  scalar of an $SU(N_D)$ strongly-coupled theory with even $N_D backslashgeq 4$. All
+  scalar of an $SU(N_D)$ strongly-coupled theory with even $N_D \geq 4$. All
   mass scales are technically natural, and dark matter stability is automatic without
   imposing an additional discrete or global symmetry. Constituent fermions transform
   in vector-like representations of the electroweak group that permit both electroweak-breaking
@@ -59,7 +59,7 @@ abstract: 'We present a new model of \"Stealth Dark Matter\": a composite baryon
   simulations that determined the composite spectrum as well as the effective Higgs
   coupling of stealth dark matter in order to place bounds from direct detection,
   excluding constituent fermions with dominantly electroweak-breaking masses. A lower
-  bound on the dark baryon mass $m_B backslashgtrsim 300$ GeV is obtained from the
+  bound on the dark baryon mass $m_B \gtrsim 300$ GeV is obtained from the
   indirect requirement that the lightest dark meson not be observable at LEP II. We
   briefly survey some intriguing properties of stealth dark matter that are worthy
   of future study, including: collider studies of dark meson production and decay;

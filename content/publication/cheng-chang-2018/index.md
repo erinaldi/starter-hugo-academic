@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Chia Cheng Chang
 - Amy Nicholson
-- Enrico Rinaldi
+- admin
 - Evan Berkowitz
 - Nicolas Garron
 - David Brantley
@@ -45,17 +45,17 @@ publishDate: '2021-11-05T00:37:02.129525Z'
 publication_types:
 - '2'
 abstract: We present state-of-the-art results from a lattice QCD calculation of the
-  nucleon axial coupling, $g_A$, using M$backslash$\"obius Domain-Wall fermions solved
+  nucleon axial coupling, $g_A$, using M$\$\"obius Domain-Wall fermions solved
   on the dynamical $N_f = 2 + 1 + 1$ HISQ ensembles after they are smeared using the
   gradient-flow algorithm. Relevant three-point correlation functions are calculated
   using a method inspired by the Feynman-Hellmann theorem, and demonstrate significant
   improvement in signal for fixed stochastic samples. The calculation is performed
-  at five pion masses of $m_backslashpibackslashsim backslash400, 350, 310, 220, 130backslash$̃MeV,
-  three lattice spacings of $abackslashsimbackslash0.15, 0.12, 0.09backslash$̃fm,
-  and we do a dedicated volume study with $m_backslashpi Lbackslashsimbackslash3.22,
-  4.29, 5.36backslash$. Control over all relevant sources of systematic uncertainty
+  at five pion masses of $m_\pi\sim \400, 350, 310, 220, 130\$̃MeV,
+  three lattice spacings of $a\sim\0.15, 0.12, 0.09\$̃fm,
+  and we do a dedicated volume study with $m_\pi L\sim\3.22,
+  4.29, 5.36\$. Control over all relevant sources of systematic uncertainty
   are demonstrated and quantified. We achieve a preliminary value of $g_A = 1.285(17)$,
-  with a relative uncertainty of 1.33$backslash$%.
+  with a relative uncertainty of 1.33$\$%.
 publication: '*EPJ Web of Conferences*'
 url_pdf: http://arxiv.org/abs/1710.06523 https://www.epj-conferences.org/10.1051/epjconf/201817501008
 doi: 10.1051/epjconf/201817501008

@@ -8,7 +8,7 @@ authors:
 - Evan Berkowitz
 - Amy Nicholson
 - Chia Cheng Chang
-- Enrico Rinaldi
+- admin
 - M.A. Clark
 - Bálint Joó
 - Thorsten Kurth
@@ -53,7 +53,7 @@ abstract: Outstanding problems in nuclear physics require input and guidance fro
   free of excited state contamination, so we coin it a calm baryon. This calm baryon
   operator is then used in the construction of the two-baryon correlation functions.
   To test this method, we perform calculations on the WM/JLab iso-clover gauge configurations
-  at the SU(3) flavor symmetric point with m$backslash$pi $backslashsim$ 800 MeV ---
+  at the SU(3) flavor symmetric point with m$\$pi $\sim$ 800 MeV ---
   the same configurations we have previously used for the calculation of two-nucleon
   correlation functions. We observe the calm baryon removes the excited state contamination
   from the two-nucleon correlation function to as early a time as the single-nucleon

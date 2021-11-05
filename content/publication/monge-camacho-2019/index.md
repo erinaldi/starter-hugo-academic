@@ -16,7 +16,7 @@ authors:
 - Balint Joo
 - Thorsten Kurth
 - Amy Nicholson
-- Enrico Rinaldi
+- admin
 - Brian Tiburzi
 - Pavlos Vranas
 - Andre Walker-Loud

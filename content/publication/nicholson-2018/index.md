@@ -48,7 +48,7 @@ abstract: Observation of neutrinoless double beta decay, a lepton number violati
   beyond the Standard Model (BSM) physics requires detailed knowledge of non-perturbative
   QCD effects. Using lattice QCD, we compute the necessary matrix elements of short-range
   operators, which arise due to heavy BSM mediators, that contribute to this decay
-  via the leading order $backslashpi^- backslashto backslashpi^+$ exchange diagrams.
+  via the leading order $\pi^- \to \pi^+$ exchange diagrams.
   Utilizing our result and taking advantage of effective field theory methods will
   allow for model-independent calculations of the relevant two-nucleon decay, which
   may then be used as input for nuclear many-body calculations of the relevant experimental

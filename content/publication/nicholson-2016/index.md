@@ -10,7 +10,7 @@ authors:
 - Chia Chang
 - Balint Joo
 - Thorsten Kurth
-- Enrico Rinaldi
+- admin
 - Brian Tiburzi
 - Pavlos Vranas
 - Andre Walker-Loud

@@ -8,7 +8,7 @@ authors:
 - Georg Bergner
 - Norbert Bodendorfer
 - Masanori Hanada
-- Enrico Rinaldi
+- admin
 - Andreas Schäfer
 - Pavlos Vranas
 tags:

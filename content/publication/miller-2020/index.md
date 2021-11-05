@@ -10,7 +10,7 @@ authors:
 - Henry Monge-Camacho
 - Chia Cheng Chang
 - Ben Hörz
-- Enrico Rinaldi
+- admin
 - Dean Howarth
 - Evan Berkowitz
 - David A. Brantley

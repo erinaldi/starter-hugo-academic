@@ -9,7 +9,7 @@ authors:
 - Eliana Lambrou
 - Luigi Del Debbio
 - Richard D. Kenway
-- Enrico Rinaldi
+- admin
 tags: []
 categories: []
 date: '2014-04-01'

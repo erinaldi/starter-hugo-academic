@@ -5,7 +5,7 @@ title: Gluonic observables and the scalar spectrum of twelve-flavour QCD
 subtitle: ''
 summary: ''
 authors:
-- Enrico Rinaldi
+- admin
 - Yasumichi Aoki
 - Tatsumi Aoyama
 - Masafumi Kurachi

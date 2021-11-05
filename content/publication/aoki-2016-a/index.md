@@ -13,7 +13,7 @@ authors:
 - Toshihide Maskawa
 - Kohtaroh Miura
 - Kei-ichi Nagai
-- Enrico Rinaldi
+- admin
 - Akihiro Shibata
 - Koichi Yamawaki
 - Takeshi Yamazaki

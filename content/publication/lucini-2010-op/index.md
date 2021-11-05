@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Biagio Lucini
 - Antonio Rago
-- Enrico Rinaldi
+- admin
 tags:
 - '"High Energy Physics - Lattice"'
 - '"High Energy Physics - Phenomenology"'
@@ -45,7 +45,7 @@ abstract: The lowest-lying glueball masses are computed in SU($N$) gauge theory 
   of any size and shape in any irreducible representation of the cubic group. A good
   signal is extracted for the ground state and the first excitation in several symmetry
   channels. It is shown that all the observed states are well described by their large
-  $N$ values, with modest $backslash$$backslashcal O(1/N^2)$ corrections. In addition
+  $N$ values, with modest $\$$\cal O(1/N^2)$ corrections. In addition
   spurious states are identified that couple to torelon and scattering operators.
   As a byproduct of our calculation, the critical couplings for the deconfinement
   phase transition for N=5 and N=7 and temporal extension of the lattice $N_T=6$ are

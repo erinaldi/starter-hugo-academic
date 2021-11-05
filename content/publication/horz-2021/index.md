@@ -9,7 +9,7 @@ summary: ''
 authors:
 - Ben Hörz
 - Dean Howarth
-- Enrico Rinaldi
+- admin
 - Andrew Hanlon
 - Chia Cheng Chang
 - Christopher Körber
@@ -59,8 +59,8 @@ abstract: We report on the first application of the stochastic Laplacian Heavisi
   symmetric point with all quark masses near the physical strange quark mass. This
   is the first in a series of papers aimed at resolving this discrepancy. In the present
   work, we employ the stochastic Laplacian Heaviside method without a hexaquark operator
-  in the basis at a lattice spacing of $abackslashsim0.086$̃fm, lattice volume of
-  $L=48abackslashsimeq4.1$̃fm and pion mass $m_backslashpibackslashsimeq714$ MeV.
+  in the basis at a lattice spacing of $a\sim0.086$̃fm, lattice volume of
+  $L=48a\simeq4.1$̃fm and pion mass $m_\pi\simeq714$ MeV.
   With this setup, the observed spectrum of two-nucleon energy levels strongly disfavors
   the presence of a bound state in either the deuteron or dineutron channel.
 publication: '*Physical Review C*'

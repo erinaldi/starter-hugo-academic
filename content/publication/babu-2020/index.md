@@ -22,7 +22,7 @@ authors:
 - David McKeen
 - Rabindra Mohapatra
 - Jean-Marc Richard
-- Enrico Rinaldi
+- admin
 - Valentina Santoro
 - Robert Shrock
 - W. M. Snow

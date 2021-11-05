@@ -12,7 +12,7 @@ authors:
 - Ben Hörz
 - Dean Howarth
 - Henry Monge-Camacho
-- Enrico Rinaldi
+- admin
 - David A. Brantley
 - Christopher Körber
 - Chris Bouchard

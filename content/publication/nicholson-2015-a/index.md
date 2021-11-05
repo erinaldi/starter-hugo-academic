@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Amy Nicholson
 - Evan Berkowitz
-- Enrico Rinaldi
+- admin
 - Pavlos Vranas
 - Thorsten Kurth
 - Balint Joo

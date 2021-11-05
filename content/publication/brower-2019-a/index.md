@@ -11,7 +11,7 @@ authors:
 - Simon Catterall
 - George Fleming
 - Joel Giedt
-- Enrico Rinaldi
+- admin
 - David Schaich
 - Evan Weinberg
 - Oliver Witzel

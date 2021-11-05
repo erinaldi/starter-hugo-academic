@@ -14,7 +14,7 @@ authors:
 - E. T. Neil
 - J. C. Osborn
 - Claudio Rebbi
-- Enrico Rinaldi
+- admin
 - David Schaich
 - Pavlos Vranas
 - Evan Weinberg

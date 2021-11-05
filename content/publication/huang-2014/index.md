@@ -9,7 +9,7 @@ authors:
 - C.-J. David Lin
 - Kenji Ogawa
 - Hiroshi Ohki
-- Enrico Rinaldi
+- admin
 tags:
 - '"nf8"'
 - '"su2"'

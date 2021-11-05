@@ -15,7 +15,7 @@ authors:
 - Ethan T. Neil
 - James C. Osborn
 - Claudio Rebbi
-- Enrico Rinaldi
+- admin
 - David Schaich
 - Pavlos Vranas
 - Oliver Witzel
@@ -54,7 +54,7 @@ abstract: Composite Higgs models must exhibit very different dynamics from quant
   fixed point affects the properties of the four light flavors that exhibit chiral
   symmetry breaking in the infrared. Specifically we describe hyperscaling of dimensionful
   physical quantities and determine the corresponding anomalous mass dimension. We
-  obtain $y_m=1+backslashgamma^*= 1.47(5)$ suggesting that $N_f=10$ lies inside the
+  obtain $y_m=1+\gamma^*= 1.47(5)$ suggesting that $N_f=10$ lies inside the
   conformal window. Comparing the low energy spectrum to predictions of dilaton chiral
   perturbation theory, we observe excellent agreement which supports the expectation
   that the 4+6 mass-split system exhibits near-conformal dynamics with a relatively

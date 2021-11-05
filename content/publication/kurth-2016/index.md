@@ -11,7 +11,7 @@ authors:
 - Evan Berkowitz
 - Pavlos Vranas
 - Mark Strother
-- Enrico Rinaldi
+- admin
 tags: []
 categories: []
 date: '2016-07-01'
@@ -48,7 +48,7 @@ abstract: 'The electroweak interaction at the level of quarks and gluons are wel
   interaction. Therefore, in order to relate experimental measurements of the parity
   violating pion-nucleon couplings to the fundamental Lagrangian of the SM, these
   non-perturbative effects have to be well understood. In this paper, we are going
-  to present a Lattice QCD approach for computing the $backslashDelta I=2$ parity
+  to present a Lattice QCD approach for computing the $\Delta I=2$ parity
   violating matrix element in proton proton scattering. This process does not involve
   disconnected diagrams in the isospin symmetric limit and is thus a perfect testbed
   for studying the feasibility of the more involved calculation of the parity violating

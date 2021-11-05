@@ -5,7 +5,7 @@ title: Walking signals in $N_f=8$ QCD on the lattice
 subtitle: ''
 summary: ''
 authors:
-- Enrico Rinaldi
+- admin
 - Yasumichi Aoki
 - Tatsumi Aoyama
 - Masafumi Kurachi

@@ -42,9 +42,9 @@ abstract: We study latent heat and the pressure gap between the hot and cold pha
   at the first-order deconfining phase transition temperature of the SU(3) Yang-Mills
   theory. Performing simulations on lattices with various spatial volumes and lattice
   spacings, we calculate the gaps of the energy density and pressure using the small
-  flow-time expansion (SFtX) method. We find that the latent heat $backslashDelta
-  backslashepsilon$ in the continuum limit is $backslashDelta backslashepsilon /T^4
-  = 1.117 backslashpm 0.040$ for the aspect ratio $N_s/N_t=8$ and $1.349 backslashpm
+  flow-time expansion (SFtX) method. We find that the latent heat $\Delta
+  \epsilon$ in the continuum limit is $\Delta \epsilon /T^4
+  = 1.117 \pm 0.040$ for the aspect ratio $N_s/N_t=8$ and $1.349 \pm
   0.038$ for $N_s/N_t=6$ at the transition temperature $T=T_c$. We also confirm that
   the pressure gap is consistent with zero, as expected from the dynamical balance
   of two phases at $T_c$. From hysteresis curves of the energy density near $T_c$,

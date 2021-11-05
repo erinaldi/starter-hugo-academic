@@ -8,7 +8,7 @@ authors:
 - Biagio Lucini
 - Agostino Patella
 - Antonio Rago
-- Enrico Rinaldi
+- admin
 tags: []
 categories: []
 date: '2013-11-01'

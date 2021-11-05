@@ -14,7 +14,7 @@ authors:
 - Ethan T. Neil
 - James C. Osborn
 - Claudio Rebbi
-- Enrico Rinaldi
+- admin
 - David Schaich
 - Pavlos Vranas
 - Evan Weinberg
@@ -45,10 +45,10 @@ publication_types:
 - '2'
 abstract: We present our lattice studies of SU(3) gauge theory with $N_f$ = 8 degenerate
   fermions in the fundamental representation. Using nHYP-smeared staggered fermions
-  we study finite-temperature transitions on lattice volumes as large as $L^3 backslashtimes
-  N_t = 48^3 backslashtimes 24$, and the zero-temperature composite spectrum on lattice
-  volumes up to $64^3 backslashtimes 128$. The spectrum indirectly indicates spontaneous
-  chiral symmetry breaking, but finite-temperature transitions with fixed $N_t backslashleq
+  we study finite-temperature transitions on lattice volumes as large as $L^3 \times
+  N_t = 48^3 \times 24$, and the zero-temperature composite spectrum on lattice
+  volumes up to $64^3 \times 128$. The spectrum indirectly indicates spontaneous
+  chiral symmetry breaking, but finite-temperature transitions with fixed $N_t \leq
   24$ enter a strongly coupled lattice phase as the fermion mass decreases, which
   prevents a direct confirmation of spontaneous chiral symmetry breaking in the chiral
   limit. In addition to the connected spectrum we focus on the lightest flavor-singlet

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Luigi Del Debbio
-- Enrico Rinaldi
+- admin
 - Alistair Hart
 tags: []
 categories: []

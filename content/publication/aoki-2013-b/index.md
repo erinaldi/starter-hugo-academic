@@ -5,7 +5,7 @@ title: Composite flavor-singlet scalar in twelve-flavor QCD
 subtitle: ''
 summary: ''
 authors:
-- Enrico Rinaldi
+- admin
 - Yasumichi Aoki
 - Tatsumi Aoyama
 - Masafumi Kurachi
@@ -45,7 +45,7 @@ publication_types:
 - '1'
 abstract: We report the calculation of the flavor-singlet scalar in the SU(3) gauge
   theory with the degenerate twelve fermions in the fundamental representation using
-  a HISQ-type action at a fixed $backslashbeta$. In order to reduce the large statistical
+  a HISQ-type action at a fixed $\beta$. In order to reduce the large statistical
   error coming from the vacuum-subtracted disconnected correlator, we employ a noise
   reduction method and a large number of configurations. We observe that the flavor-singlet
   scalar is lighter than the pion in this theory from the calculations with the fermion

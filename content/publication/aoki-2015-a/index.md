@@ -13,7 +13,7 @@ authors:
 - Kohtaroh Miura
 - Kei-ichi Nagai
 - Hiroshi Ohki
-- Enrico Rinaldi
+- admin
 - Akihiro Shibata
 - Koichi Yamawaki
 - Takeshi Yamazaki
@@ -47,8 +47,8 @@ publishDate: '2021-11-05T00:37:05.213306Z'
 publication_types:
 - '1'
 abstract: LatKMI Collaboration discusses the topological insights in many-flavor QCD
-  on the lattice. We explore walking/conformal/confining phase in $N_backslashmathrmf$
-  = 4, 8 and 12 (in particular $N_backslashmathrmf$ = 8) lattice QCD via the topological
+  on the lattice. We explore walking/conformal/confining phase in $N_\mathrmf$
+  = 4, 8 and 12 (in particular $N_\mathrmf$ = 8) lattice QCD via the topological
   charge and susceptibility, eigenvalues and anomalous dimension.
 publication: '*Origin of Mass and Strong Coupling Gauge Theories (SCGT15)*'
 url_pdf: http://arxiv.org/abs/1510.05863 http://www.worldscientific.com/doi/abs/10.1142/9789813231467_0007

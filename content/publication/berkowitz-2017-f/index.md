@@ -9,7 +9,7 @@ authors:
 - Thorsten Kurth
 - Amy Nicholson
 - Bálint Joó
-- Enrico Rinaldi
+- admin
 - Mark Strother
 - Pavlos M. Vranas
 - André Walker-Loud

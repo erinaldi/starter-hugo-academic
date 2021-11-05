@@ -11,7 +11,7 @@ authors:
 - Arjun Gambhir
 - Ken McElvain
 - Amy Nicholson
-- Enrico Rinaldi
+- admin
 - Pavlos Vranas
 - Andre Walker-Loud
 - Chia Cheng Chang

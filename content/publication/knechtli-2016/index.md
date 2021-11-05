@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Francesco Knechtli
-- Enrico Rinaldi
+- admin
 tags: []
 categories: []
 date: '2016-08-01'

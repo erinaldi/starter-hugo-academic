@@ -5,7 +5,7 @@ title: Neutron-Antineutron Oscillations from Lattice QCD
 subtitle: ''
 summary: ''
 authors:
-- Enrico Rinaldi
+- admin
 - Sergey Syritsyn
 - Michael L. Wagman
 - Michael I. Buchoff
@@ -43,7 +43,7 @@ abstract: Fundamental symmetry tests of baryon number violation in low-energy ex
   six-quark matrix elements needed to connect experimental measurements of the neutron-antineutron
   oscillation rate to constraints on beyond the Standard Model theories. State-of-the-art
   lattice gauge field configurations at the physical pion mass are used and the lattice
-  matrix elements are renormalized nonperturbatively and converted to the $backslashoverlineMS$
+  matrix elements are renormalized nonperturbatively and converted to the $\overlineMS$
   scheme at 2 GeV, where perturbative scale running can be used to connect them to
   BSM theories. Phenomenological implications are highlighted by comparing the constraints
   of proposed neutron-antineutron experiments to predictions of a specific model of

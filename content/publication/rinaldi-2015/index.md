@@ -5,7 +5,7 @@ title: Investigation of the Scalar Spectrum in SU(3) with Eight Degenerate Flavo
 subtitle: ''
 summary: ''
 authors:
-- Enrico Rinaldi
+- admin
 tags: []
 categories: []
 date: '2018-02-01'
@@ -34,7 +34,7 @@ abstract: The Lattice Strong Dynamics collaboration is investigating the propert
   of a SU(3) gauge theory with $N_f = 8$ light fermions on the lattice. We measure
   the masses of the lightest pseudoscalar, scalar and vector states using simulations
   with the nHYP staggered-fermion action on large volumes and at small fermion masses,
-  reaching $M_backslashrho/M_backslashpi backslashapprox 2.2$. The axial-vector meson
+  reaching $M_\rho/M_\pi \approx 2.2$. The axial-vector meson
   and the nucleon are also studied for the same range of fermion masses. One of the
   interesting features of this theory is the dynamical presence of a light flavor-singlet
   scalar state with $0^++$ quantum numbers that is lighter than the vector resonance

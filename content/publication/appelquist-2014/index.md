@@ -16,7 +16,7 @@ authors:
 - E. T. Neil
 - J. C. Osborn
 - Claudio Rebbi
-- Enrico Rinaldi
+- admin
 - David Schaich
 - Chris Schroeder
 - Sergey Syritsyn
@@ -57,8 +57,8 @@ abstract: We present the spectrum of baryons in a new SU(4) gauge theory with fu
   a confining SU(4) gauge sector. Comparison with the latest LUX results leads to
   tight bounds on the fraction of the constituent-fermion mass that may arise from
   electroweak symmetry breaking. Lattice calculations of the dark matter mass spectrum
-  and the Higgs-dark matter coupling are performed on quenched $16^3 backslashtimes
-  32$, $32^3 backslashtimes 64$, $48^3 backslashtimes 96$, and $64^3 backslashtimes128$
+  and the Higgs-dark matter coupling are performed on quenched $16^3 \times
+  32$, $32^3 \times 64$, $48^3 \times 96$, and $64^3 \times128$
   lattices with three different lattice spacings, using Wilson fermions with moderate
   to heavy pseudoscalar meson masses. Our results lay a foundation for future analytic
   and numerical study of composite baryonic dark matter.

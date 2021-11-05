@@ -13,7 +13,7 @@ authors:
 - Kohtaroh Miura
 - Kei-ichi Nagai
 - Hiroshi Ohki
-- Enrico Rinaldi
+- admin
 - Akihiro Shibata
 - Koichi Yamawaki
 - Takeshi Yamazaki
@@ -50,10 +50,10 @@ abstract: As a part of the project studying large $N_f$ QCD, the LatKMI Collabor
   of different theories are less affected by artifacts of lattice discretization.
   Here, we adopt the highly-improved staggered quark action with the tree-level Symanzik
   gauge action (HISQ/tree), which is exactly the same as the setup for our simulations
-  for $SU(3)$ gauge theories with $N_f=8$, $12$ and $16$ fundamental fermions̃$backslash$citeAoki:2013xza,
+  for $SU(3)$ gauge theories with $N_f=8$, $12$ and $16$ fundamental fermions̃$\$citeAoki:2013xza,
   Aoki:2012eq, Aoki:2014oma. In the next section, we show the fermion mass dependence
-  of $F_backslashpi$, $backslashlanglebackslashbarbackslashpsibackslashpsibackslashrangle$,
-  $M_backslashpi$, $M_backslashrho$, $M_N$ and their chiral extrapolations. In section
+  of $F_\pi$, $\langle\bar\psi\psi\rangle$,
+  $M_\pi$, $M_\rho$, $M_N$ and their chiral extrapolations. In section
   3, preliminary results of the measurement of the mass of the flavor-singlet scalar
   bound state will be reported.
 publication: '*Origin of Mass and Strong Coupling Gauge Theories (SCGT15)*'

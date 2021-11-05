@@ -10,7 +10,7 @@ authors:
 - Norbert Bodendorfer
 - Shotaro Shiba Funai
 - Masanori Hanada
-- Enrico Rinaldi
+- admin
 - Andreas Schäfer
 - Pavlos Vranas
 tags:

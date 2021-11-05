@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Chia Cheng Chang
 - A. N. Nicholson
-- Enrico Rinaldi
+- admin
 - Evan Berkowitz
 - Nicolas Garron
 - David A. Brantley
@@ -44,8 +44,8 @@ projects: []
 publishDate: '2021-11-05T00:37:05.722318Z'
 publication_types:
 - '2'
-abstract: 'The $backslashtextitaxial coupling of the nucleon$, $g_A$, is the strength
-  of its coupling to the $backslashtextitweak$ axial current of the Standard Model
+abstract: 'The $\textitaxial coupling of the nucleon$, $g_A$, is the strength
+  of its coupling to the $\textitweak$ axial current of the Standard Model
   of particle physics, in much the same way as the electric charge is the strength
   of the coupling to the electromagnetic current. This axial coupling dictates the
   rate at which neutrons decay to protons, the strength of the attractive long-range
@@ -59,7 +59,7 @@ abstract: 'The $backslashtextitaxial coupling of the nucleon$, $g_A$, is the str
   been estimated that a precision of two percent would be possible by 2020 if two
   challenges are overcome: contamination of $g_A$ from excited states must be controlled
   in the calculations and statistical precision must be improved markedly. Here we
-  report a calculation of $g_A^QCD = 1.271backslashpm0.013$, using an unconventional
+  report a calculation of $g_A^QCD = 1.271\pm0.013$, using an unconventional
   method inspired by the Feynman-Hellmann theorem that overcomes these challenges.'
 publication: '*Nature*'
 url_pdf: http://arxiv.org/abs/1805.12130 http://dx.doi.org/10.1038/s41586-018-0161-8

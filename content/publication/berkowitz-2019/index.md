@@ -15,7 +15,7 @@ authors:
 - Balint Joo
 - Henry Monge-Camacho
 - Amy Nicholson
-- Enrico Rinaldi
+- admin
 - Pavlos Vranas
 tags: []
 categories: []

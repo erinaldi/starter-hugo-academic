@@ -12,7 +12,7 @@ authors:
 - Kenji Ogawa
 - Hiroshi Ohki
 - Alberto Ramos
-- Enrico Rinaldi
+- admin
 tags: []
 categories: []
 date: '2016-07-01'
@@ -39,14 +39,14 @@ publication_types:
 - '1'
 abstract: We present our investigation of SU(2) gauge theory with 8 flavours, and
   SU(3) gauge theory with 12 flavours. For the SU(2) case, at strong bare coupling,
-  $backslashbeta backslashlesssim 1.45$, the distribution of the lowest eigenvalue
+  $\beta \lesssim 1.45$, the distribution of the lowest eigenvalue
   of the Dirac operator can be described by chiral random matrix theory for the Gaussian
   symplectic ensemble. Our preliminary result indicates that the chiral phase transition
   in this theory is of bulk nature. For the SU(3) theory, we use high-precision lattice
-  data to perform the step-scaling study of the coupling, $g_backslashrm GF$, in the
+  data to perform the step-scaling study of the coupling, $g_\rm GF$, in the
   Gradient Flow scheme. We carefully examine the reliability of the continuum extrapolation
   in the analysis, and conclude that the scaling behaviour of this SU(3) theory is
-  not governed by possible infrared conformality at $g_backslashrm GF̂2 backslashlesssim
+  not governed by possible infrared conformality at $g_\rm GF̂2 \lesssim
   6$.
 publication: '*Proceedings of The 33rd International Symposium on Lattice Field Theory
   — PoS(LATTICE 2015)*'
