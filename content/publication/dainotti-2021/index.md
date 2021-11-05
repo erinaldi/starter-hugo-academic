@@ -13,7 +13,7 @@ authors:
 - Biagio De Simone
 - Tiziano Schiavone
 - Giovanni Montani
-- Enrico Rinaldi
+- admin
 - Gaetano Lambiase
 tags:
 - '"Type Ia supernovae"'
@@ -23,6 +23,10 @@ date: '2021-05-01'
 lastmod: 2021-11-05T09:36:57+09:00
 featured: true
 draft: false
+
+links:
+  - name: "Dimensions"
+    url: "https://badge.dimensions.ai/details/id/pub.1138130814"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
