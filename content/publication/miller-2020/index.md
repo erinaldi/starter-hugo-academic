@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: $F_K / F_backslashpi$ from M$backslash$\"obius domain-wall fermions solved
+title: $F_K / F_\pi$ from Möbius domain-wall fermions solved
   on gradient-flowed HISQ ensembles
 subtitle: ''
 summary: ''
@@ -49,23 +49,22 @@ publishDate: '2021-11-05T00:36:59.061829Z'
 publication_types:
 - '2'
 abstract: We report the results of a lattice quantum chromodynamics calculation of
-  $F_K/F_backslashpi$ using M$backslash$\"obius domain-wall fermions computed on gradient-flowed
+  $F_K/F_\pi$ using Möbius domain-wall fermions computed on gradient-flowed
   $N_f=2+1+1$ highly-improved staggered quark (HISQ) ensembles. The calculation is
-  performed with five values of the pion mass ranging from $130 backslashlesssim m_backslashpi
-  backslashlesssim 400$ MeV, four lattice spacings of $abackslashsim 0.15, 0.12, 0.09$
+  performed with five values of the pion mass ranging from $130 \lesssim m_\pi
+  \lesssim 400$ MeV, four lattice spacings of $a \sim 0.15, 0.12, 0.09$
   and $0.06$ fm and multiple values of the lattice volume. The interpolation/extrapolation
   to the physical pion and kaon mass point, the continuum, and infinite volume limits
   are performed with a variety of different extrapolation functions utilizing both
   the relevant mixed-action effective field theory expressions as well as discretization-enhanced
-  continuum chiral perturbation theory formulas. We find that the $abackslashsim0.06$
+  continuum chiral perturbation theory formulas. We find that the $a\sim0.06$
   fm ensemble is helpful, but not necessary to achieve a subpercent determination
-  of $F_K/F_backslashpi$. We also include an estimate of the strong isospin breaking
-  corrections and arrive at a final result of $F_K^backslashpm/F_backslashpi^backslashpm
+  of $F_K/F_\pi$. We also include an estimate of the strong isospin breaking
+  corrections and arrive at a final result of $F_K^\pm/F_\pi^\pm
   = 1.1942(45)$ with all sources of statistical and systematic uncertainty included.
   This is consistent with the Flavour Lattice Averaging Group average value, providing
   an important benchmark for our lattice action. Combining our result with experimental
-  measurements of the pion and kaon leptonic decays leads to a determination of $|V_us|/|V_ud|
-  = 0.2311(10)$.
+  measurements of the pion and kaon leptonic decays leads to a determination of $|V_us|/|V_ud|= 0.2311(10)$.
 publication: '*Physical Review D*'
 url_pdf: http://arxiv.org/abs/2005.04795 https://link.aps.org/doi/10.1103/PhysRevD.102.034507
   http://dx.doi.org/10.1103/PhysRevD.102.034507

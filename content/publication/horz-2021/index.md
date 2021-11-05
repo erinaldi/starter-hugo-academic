@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Two-nucleon S-wave interactions at the $SU(3)$ flavor-symmetric point with
-  $m_udbackslashsimeq m_s^backslashrm phys$: a first lattice QCD calculation with
+  $m_{ud} \simeq m_s^{phys}$: a first lattice QCD calculation with
   the stochastic Laplacian Heaviside method'
 subtitle: ''
 summary: ''
