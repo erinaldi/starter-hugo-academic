@@ -32,6 +32,12 @@ featured: true
 projects:
   - nuclear-physics
 
+image:
+  caption: >-
+    Credits: Theoretical Innovations for Future Experiments Regarding Baryon Number Violation Workshop. [Web
+    Link](https://indico.fnal.gov/event/44472/overview)
+  focal_point: Smart
+
 
 tags:
   - Lattice
