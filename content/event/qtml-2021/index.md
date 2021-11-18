@@ -88,6 +88,6 @@ Example topics include, but are not limited to
 
 # My invited talk at the conference
 
-Here is a recording of my talk, but all talks from the conference are on YouTube, in a playlist on the RIKEN AIP YouTube channel:
+Here is a recording of my talk (at time 2:31), but all talks from the conference are on YouTube, in a playlist on the RIKEN AIP YouTube channel:
 
-{{< youtube ts7EUXvK2VI?t=9078 >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ts7EUXvK2VI?start=9078" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
