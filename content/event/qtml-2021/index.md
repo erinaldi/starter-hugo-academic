@@ -67,13 +67,13 @@ slides: ""
 projects: ["deep-learning", "mcsmc"]
 ---
 
-# The QTML conference
+## The QTML conference
 
 Quantum Techniques in Machine Learning (QTML) is an annual international conference focusing on the interdisciplinary field of quantum technology and machine learning. The goal of the conference is to gather leading academic researchers and industry players to interact through a series of scientific talks focused on the interplay between machine learning and quantum physics.
 
 ​QTML was first hosted in Verona, Italy (2017), then in Durban, South Africa (2018),  Daejeon, South Korea (2019), virtual (2020, hosted by Zapata Computing). This is the conference's fifth annual year and will be held online (hosted by RIKEN).
 
-# Topics
+## Topics
 
 Example topics include, but are not limited to
   * Quantum algorithms for machine learning tasks
@@ -86,7 +86,7 @@ Example topics include, but are not limited to
   * Machine learning for experimental quantum information
   * Quantum machine learning applications for industry
 
-# My invited talk at the conference
+## My invited talk at the conference
 
 Below is a recording of my talk, but all talks from the conference are on YouTube, in a playlist on the RIKEN AIP YouTube channel:
 
