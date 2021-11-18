@@ -14,7 +14,7 @@ authors:
 - E. T. Neil
 - J. C. Osborn
 - C. Rebbi
-- E. Rinaldi
+- admin
 - D. Schaich
 - C. Schroeder
 - S. Syritsyn
