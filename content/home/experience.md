@@ -25,7 +25,7 @@ experience:
 - company: University of Michigan
   company_url: https://umich.edu
   date_end: ''
-  date_start: '2020-03-01'
+  date_start: '2021-03-01'
   description: "  Research on computational methods to advance scientific discovery.\
     \ Responsibilities include publishing papers, writing research grants, supervise\
     \ students.\n  "
