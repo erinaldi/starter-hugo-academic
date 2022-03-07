@@ -77,3 +77,6 @@ News articles related to this publication:
 1. [University of Michigan](https://news.umich.edu/whats-inside-a-black-hole-u-m-physicist-uses-quantum-computing-machine-learning-to-find-out/)
 2. [VICE](https://www.vice.com/en/article/n7nqnz/scientists-are-data-mining-black-holes-to-see-if-they-are-holograms)
 3. [Phys.org](https://phys.org/news/2022-02-black-hole-physicist-quantum-machine.html)
+4. [CNET](https://www.cnet.com/news/an-alternate-holographic-universe-may-lead-us-into-a-black-hole/#ftag=CADf328eec)
+5. [SYFY](https://www.syfy.com/syfy-wire/holographic-duality-could-predict-what-is-inside-a-black-hole)
+6. [ScienceAlert](https://www.sciencealert.com/what-happens-inside-a-black-hole-quantum-computers-may-be-able-to-replicate-it)

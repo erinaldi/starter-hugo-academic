@@ -54,8 +54,9 @@ highlight_name: false
 title: Enrico Rinaldi
 email: ""
 ---
-I am a Research Scientist at the University of Michigan, based in Tokyo, hosted by the RIKEN Center for Quantum Computing (RQC) and the Theoretical Quantum Physics Laboratory at the Cluster for Pioneering Research at RIKEN, Wako.
+I am a Research Scientist at the University of Michigan.
 
+I am based in Tokyo, hosted by the RIKEN Center for Quantum Computing (RQC) and the Theoretical Quantum Physics Laboratory at the Cluster for Pioneering Research at RIKEN, Wako.
 I am also a Visiting Scientist of the RIKEN Interdisciplinary Theoretical and Mathematical Sciences Program, where I collaborate on projects in Quantum Computing, Cosmology, and Dark Matter theories.
 
 My academic research is at the interface of computational and theoretical tools, applied to solving the mysteries of the Universe.
