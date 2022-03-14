@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Neural quantum states for supersymmetric quantum gauge theories"
+title: "Dispersive qubit readout with machine learning"
 event: "Machine Learning for the Physical Sciences (Neurips 2021 Workshop)"
 event_url: https://ml4physicalsciences.github.io/2021/
 location: ML4PS Workshop - Organized during Neurips 2021
@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2021-11-18T15:06:06+09:00
 
-authors: [admin, Xizhi Han]
+authors: [admin, Roberto Di Candia, Simone Felicetti, Fabrizio Minganti]
 tags: []
 
 # Is this a featured event? (true/false)
@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_46_poster.png
+url_slides: https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_52_poster.png
 
 url_code:
-url_pdf: https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_46.pdf
+url_pdf: https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_52.pdf
 url_video:
 
 # Markdown Slides (optional).
@@ -64,5 +64,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["deep-learning","mcsmc"]
+projects: ["deep-learning"]
 ---
