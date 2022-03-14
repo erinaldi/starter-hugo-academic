@@ -34,7 +34,7 @@ experience:
 - company: RIKEN Center for Quantum Computing
   company_url: https://rqc.riken.jp/en/
   date_end: ''
-  date_start: '2021-09-01'
+  date_start: '2022-05-01'
   description: "  Research on quantum algorithms for quantum field theory,\
     \ Projects\
     \ are related to:\n\n * Matrix Models\n  * Lattice\
