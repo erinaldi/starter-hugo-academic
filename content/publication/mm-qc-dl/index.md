@@ -80,3 +80,4 @@ News articles related to this publication:
 4. [CNET](https://www.cnet.com/news/an-alternate-holographic-universe-may-lead-us-into-a-black-hole/#ftag=CADf328eec)
 5. [SYFY](https://www.syfy.com/syfy-wire/holographic-duality-could-predict-what-is-inside-a-black-hole)
 6. [ScienceAlert](https://www.sciencealert.com/what-happens-inside-a-black-hole-quantum-computers-may-be-able-to-replicate-it)
+7. [LSA - UMich](https://lsa.umich.edu/physics/news-events/all-news/search-news/what-s-inside-a-black-hole--u-m-physicist-enrico-rinaldi-uses-qu.html)

@@ -31,7 +31,7 @@ social:
     link: https://linkedin.com/in/erinaldi2
 organizations:
   - name: University of Michigan
-    url: https://umich.edu/
+    url: https://lsa.umich.edu/physics/people/research-fellows/erinaldi.html
   - name: RIKEN Center for Quantum Computing
     url: https://rqc.riken.jp/en
   - name: Theoretical Quantum Physics, Cluster of Pioneering Research
