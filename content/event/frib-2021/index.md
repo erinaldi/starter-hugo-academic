@@ -27,8 +27,8 @@ tags:
 title: Quantum gravity in the lab. Matrix quantum mechanics meets quantum computing
 
 url_code: ''
-url_pdf: https://www.dropbox.com/s/yrpgynlulgmfg2j/QuantumGravityInTheLab_ERinaldi_60min.pdf?dl=0
-url_slides: https://www.dropbox.com/s/yrpgynlulgmfg2j/QuantumGravityInTheLab_ERinaldi_60min.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/ajj3g2zj90hvmzd/QuantumGravityInTheLab_ERinaldi_60min.pdf?dl=0
+url_slides: https://www.dropbox.com/s/ajj3g2zj90hvmzd/QuantumGravityInTheLab_ERinaldi_60min.pdf?dl=0
 url_video: https://youtu.be/4bhcG7S32KM
 ---
 Here is a recording of this seminar on YouTube:
