@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Goldstone Boson Scattering with a Light Composite Scalar
+title: Goldstone boson scattering with a light composite scalar
 subtitle: ''
 summary: ''
 authors:
@@ -13,7 +13,6 @@ authors:
 - A. Hasenfratz
 - J. Ingoldby
 - X. Y. Jin
-- J. Kiskis
 - E. T. Neil
 - J. C. Osborn
 - C. Rebbi
@@ -24,7 +23,7 @@ authors:
 - O. Witzel
 tags: []
 categories: []
-date: '2021-06-01'
+date: '2022-02-01'
 lastmod: 2021-11-05T09:36:57+09:00
 featured: false
 draft: false
@@ -43,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-05T00:36:57.277216Z'
+publishDate: '2022-05-16T05:45:34.359134Z'
 publication_types:
 - '2'
 abstract: The appearance of a light composite $0^+$ scalar resonance in nearly conformal
@@ -58,6 +57,7 @@ abstract: The appearance of a light composite $0^+$ scalar resonance in nearly c
   of the scattering data, insofar as the magnitude of deviations between EFT and lattice
   data are no larger than the expected size of next-to-leading order corrections in
   the EFT.
-publication: ''
-url_pdf: http://arxiv.org/abs/2106.13534
+publication: '*Physical Review D*'
+url_pdf: http://arxiv.org/pdf/2106.13534.pdf
+doi: 10.1103/PhysRevD.105.034505
 ---
