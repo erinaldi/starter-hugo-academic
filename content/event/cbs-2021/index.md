@@ -6,6 +6,10 @@ date_end: 2021-07-06 17:00:00-04:00
 event: Invited seminar
 event_url: ''
 featured: true
+image:
+  caption: "Diagram of likelihood-free inference methods from PNAS 117 (48) 30055-30062 (2020)."
+  focal_point: ""
+  preview_only: false
 header:
   caption: ''
 highlight: true
@@ -24,7 +28,7 @@ tags:
 
 title: Introduction to simulation-based inference
 url_code: ''
-url_pdf: https://www.dropbox.com/s/xkrf995462594xm/SBI_RinaldiE_45min.pdf?dl=0
-url_slides: https://www.dropbox.com/s/xkrf995462594xm/SBI_RinaldiE_45min.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/mbpesyex1xap57t/SBI_RinaldiE_45min.pdf?dl=0
+url_slides: https://www.dropbox.com/s/mbpesyex1xap57t/SBI_RinaldiE_45min.pdf?dl=0
 url_video: ''
 ---
