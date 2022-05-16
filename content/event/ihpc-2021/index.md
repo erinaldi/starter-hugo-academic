@@ -26,7 +26,7 @@ tags:
 
 title: Benchmarking quantum algorithms for quantum field theory
 url_code: ''
-url_pdf: https://www.dropbox.com/s/h79fa8wkgai49lp/BenchQC_ERinaldi_25min.pdf?dl=0
-url_slides: https://www.dropbox.com/s/h79fa8wkgai49lp/BenchQC_ERinaldi_25min.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/s7wd04murc34bqg/BenchQC_ERinaldi_25min.pdf?dl=0
+url_slides: https://www.dropbox.com/s/s7wd04murc34bqg/BenchQC_ERinaldi_25min.pdf?dl=0
 url_video: ''
 ---
