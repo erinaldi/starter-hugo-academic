@@ -50,10 +50,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: https://www.dropbox.com/s/lrb4rzowhpanmep/QuantumGravityInTheLab_ERinaldi_45min.pdf?dl=0
-
 url_code:
-url_pdf: https://www.dropbox.com/s/lrb4rzowhpanmep/QuantumGravityInTheLab_ERinaldi_45min.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/2omdsdzdm1r7n8q/QuantumGravityInTheLab_ERinaldi_45min.pdf?dl=0
+url_slides: https://www.dropbox.com/s/2omdsdzdm1r7n8q/QuantumGravityInTheLab_ERinaldi_45min.pdf?dl=0
 url_video:
 
 # Markdown Slides (optional).
