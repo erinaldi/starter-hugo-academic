@@ -27,7 +27,7 @@ tags:
 title: Quantum gravity in the lab. Quantum computing and deep learning solutions
 
 url_code: ''
-url_pdf: https://www.dropbox.com/s/15ehvtenf2znndz/QuantumGravity_DeepLearning_ERinaldi_45min.pdf?dl=0
-url_slides: https://www.dropbox.com/s/15ehvtenf2znndz/QuantumGravity_DeepLearning_ERinaldi_45min.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/dw7200chzvmq3ic/QuantumGravity_DeepLearning_ERinaldi_45min.pdf?dl=0
+url_slides: https://www.dropbox.com/s/dw7200chzvmq3ic/QuantumGravity_DeepLearning_ERinaldi_45min.pdf?dl=0
 url_video: ''
 ---
