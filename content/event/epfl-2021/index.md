@@ -26,7 +26,7 @@ tags:
 
 title: A deep learning and hybrid quantum-classical approach to matrix quantum mechanics
 url_code: ''
-url_pdf: https://www.dropbox.com/s/bv4isn95ilw1mi6/MQM_ERinaldi_45min.pdf?dl=0
-url_slides: https://www.dropbox.com/s/bv4isn95ilw1mi6/MQM_ERinaldi_45min.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/14xrwrj1icn80q4/MQM_ERinaldi_45min.pdf?dl=0
+url_slides: https://www.dropbox.com/s/14xrwrj1icn80q4/MQM_ERinaldi_45min.pdf?dl=0
 url_video: ''
 ---
