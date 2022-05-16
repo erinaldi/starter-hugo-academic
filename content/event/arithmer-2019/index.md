@@ -5,8 +5,12 @@ date_end: 2019-06-13 17:00:00-04:00
 event: Invited seminar
 event_url: ''
 featured: true
+image:
+  caption: "Machine learning for scientific discovery (Science)."
+  focal_point: ""
+  preview_only: false
 header:
-  caption: ''
+  caption: 'Test'
 highlight: true
 location: Arithmer Inc., Tokyo
 math: false
@@ -23,7 +27,7 @@ tags:
 
 title: The Data Science of Physics
 url_code: ''
-url_pdf: https://www.dropbox.com/s/mewlrpaot9li0ez/Rinaldi_Enrico_DataSciencePhysics.pdf?dl=0
-url_slides: https://www.dropbox.com/s/mewlrpaot9li0ez/Rinaldi_Enrico_DataSciencePhysics.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/bdk5jn0ojbaqqnx/Rinaldi_Enrico_DataSciencePhysics.pdf?dl=0
+url_slides: https://www.dropbox.com/s/bdk5jn0ojbaqqnx/Rinaldi_Enrico_DataSciencePhysics.pdf?dl=0
 url_video: ''
 ---
