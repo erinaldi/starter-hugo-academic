@@ -27,7 +27,7 @@ authors: []
 tags: ["Deep Learning", "Simulation Based Inference", "Poster", "Workshop", "Neuroscience"]
 
 # Is this a featured event? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

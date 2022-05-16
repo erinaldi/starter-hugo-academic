@@ -5,7 +5,7 @@ date: 2021-09-22 16:00:00-04:00
 date_end: 2021-09-22 17:00:00-04:00
 event: Invited seminar
 event_url: ''
-featured: true
+featured: false
 header:
   caption: ''
 highlight: true
