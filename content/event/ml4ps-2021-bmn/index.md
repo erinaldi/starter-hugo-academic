@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_46_poster.png
 
 url_code:
 url_pdf: https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_46.pdf
+url_slides: https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_46_poster.png
 url_video:
 
 # Markdown Slides (optional).
