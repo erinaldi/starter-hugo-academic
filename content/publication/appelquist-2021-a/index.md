@@ -60,7 +60,6 @@ abstract: Composite Higgs models must exhibit very different dynamics from quant
   that the 4+6 mass-split system exhibits near-conformal dynamics with a relatively
   light $0^++$ isosinglet scalar.
 publication: '*Physical Review D*'
-url_pdf: http://arxiv.org/abs/2007.01810 http://dx.doi.org/10.1103/PhysRevD.103.014504
-  https://link.aps.org/doi/10.1103/PhysRevD.103.014504
+url_pdf: http://arxiv.org/pdf/2007.01810.pdf
 doi: 10.1103/PhysRevD.103.014504
 ---
