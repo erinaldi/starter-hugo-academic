@@ -33,7 +33,7 @@ featured: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "QTML 2021 Conference Website hosted by RIKEN-AIP (Center for Advanced Intelligence Project)"
   focal_point: ""
   preview_only: false
 
