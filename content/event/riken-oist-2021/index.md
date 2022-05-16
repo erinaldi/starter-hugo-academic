@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: https://www.dropbox.com/s/73606adj0d2io7n/SBI_RinaldiE_poster.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/4qrad5jj0iwg8db/SBI_RinaldiE_poster.pdf?dl=0
 url_video:
 
 # Markdown Slides (optional).
