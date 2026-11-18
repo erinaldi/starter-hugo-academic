@@ -192,6 +192,29 @@
   {{ end }}
 {{ end }}
 
+{{/* 4b) Site addition: alphaXiv discussion page for every paper with an arXiv id
+   (https://www.alphaxiv.org/abs/<id>). Strips an optional "arXiv:" prefix and version suffix. */}}
+{{ with $page.Params.hugoblox }}
+  {{ with .ids }}
+    {{ with .arxiv }}
+      {{ $axid := replaceRE `(?i)^arxiv:` "" (printf "%v" .) | replaceRE `v\d+$` "" }}
+      {{ $urlF := printf "https://www.alphaxiv.org/abs/%s" $axid }}
+      {{ $keyF := printf "discussion::%s" $urlF }}
+      {{ if not ($seen.Get (printf "set.%s" $keyF)) }}
+        {{ $seen.SetInMap "set" $keyF true }}
+        {{ $links = $links | append (dict
+            "type" "discussion"
+            "url" $urlF
+            "icon" "hero/chat-bubble-left-right"
+            "labelKey" ""
+            "label" "alphaXiv"
+            "contexts" (slice "list" "page")
+          ) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
 {{/* 5) Legacy fields -> deprecation warnings and normalized items */}}
 {{/* external_link */}}
 {{ with $page.Params.external_link }}

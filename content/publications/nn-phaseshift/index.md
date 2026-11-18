@@ -36,5 +36,5 @@ links:
 hugoblox:
   ids:
     doi: 10.1016/j.physletb.2016.12.024
-    arxiv: arXiv:1508.00886
+    arxiv: 1508.00886
 ---
