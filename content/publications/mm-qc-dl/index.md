@@ -19,7 +19,7 @@ summary: "We study the two matrix models using deep learning methods and quantum
 image:
   caption: "In this image, a pictorial representation of curved space time connects the two simulation methods. On the bottom, a deep learning method is represented by graphs of points (neural network), while the quantum circuit method on top is represented by lines, squares and circles (qubits and gates). The simulation methods merge with each side of the curved space time to represent the fact that gravity properties come out of the simulations. Image credit: E. Rinaldi and A. Silvestri"
   focal_point: Smart
-featured: true
+featured: false
 projects: ["mcsmc", "deep-learning"]
 tags:
   - Lattice Field Theory

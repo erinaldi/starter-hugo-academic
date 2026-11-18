@@ -49,4 +49,19 @@ sections:
         [Google Scholar](https://scholar.google.com/citations?user=zxraLMsAAAAJ).
     design:
       columns: '1'
+
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        featured_only: true
+      count: 6
+      order: desc
+    design:
+      view: citation
+      columns: '1'
 ---

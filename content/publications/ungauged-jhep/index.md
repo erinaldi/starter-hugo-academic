@@ -16,7 +16,7 @@ summary: "We study the thermodynamics of the ‘ungauged’ D0-brane matrix mode
 image:
   caption: Numerical results comparing the energy of gauged and ungauged systems.
   focal_point: Smart
-featured: true
+featured: false
 projects: ["mcsmc"]
 tags:
   - Lattice Field Theory

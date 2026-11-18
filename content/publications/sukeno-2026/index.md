@@ -15,5 +15,5 @@ links:
   - type: source
     url: https://inspirehep.net/literature/3187809
     label: INSPIRE
-featured: false
+featured: true
 ---

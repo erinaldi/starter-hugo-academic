@@ -15,7 +15,7 @@ image:
     Credits: APS/Alan Stonebraker. [Web
     Link](https://physics.aps.org/articles/v13/40)
   focal_point: Smart
-featured: true
+featured: false
 projects: ["mcsmc", "deep-learning"]
 tags:
   - Quantum Gravity

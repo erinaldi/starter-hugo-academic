@@ -12,7 +12,7 @@ tags:
   - Type Ia Supernovae
   - Cosmology
 date: '2021-05-01'
-featured: true
+featured: false
 links:
   - type: custom
     url: "https://badge.dimensions.ai/details/id/pub.1138130814"
