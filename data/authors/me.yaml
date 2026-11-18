@@ -54,10 +54,22 @@ experience:
   - role: Visiting Scientist
     org: RIKEN Center for Quantum Computing (Theory Unit)
     start: 2022-11-01
+  - role: Research Scientist
+    org: University of Michigan
+    start: 2021-03-01
+    end: 2022-11-30
+  - role: Visiting Research Scientist
+    org: Theoretical Quantum Physics Laboratory, RIKEN Cluster for Pioneering Research
+    start: 2021-03-01
+    end: 2025-06-30
   - role: AI Researcher/Engineer
     org: Arithmer Inc., Tokyo
     start: 2019-10-01
     end: 2021-02-28
+  - role: Visiting Research Scientist
+    org: RIKEN Interdisciplinary Theoretical and Mathematical Sciences Program (iTHEMS)
+    start: 2019-09-30
+    end: 2025-06-30
   - role: Special Postdoctoral Research Fellow
     org: RIKEN Nishina Center
     start: 2019-04-01
