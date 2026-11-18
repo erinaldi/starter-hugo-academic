@@ -1,39 +1,21 @@
 ---
 date: '2017-04-18'
 title: Nuclear Physics from Lattice QCD
-
 summary: >-
   Understand the properties of hadrons from the fundamental theory of quarks and
   gluons (QCD).
-
 image:
   caption: Artwork by Dr. Evan Berkowitz and Bart-W. van Lith.
   focal_point: Smart
-
 tags:
   - Nuclear Physics
   - Supercomputing
-  - Lattice
+  - Lattice Field Theory
   - Particle Physics
-
-external_link: ''
-
-slides: ''
-
-url_pdf: ''
-url_slides: ''
-url_video: ''
-url_code: ''
-
-
 links:
-  - icon_pack: fab
-    icon: twitter
-    name: Follow
-    url: 'https://twitter.com/enricesena'
-  - name: CalLat
+  - type: custom
     url: 'https://a51.lbl.gov/~callat/webhome/'
-
+    label: CalLat
 ---
 
 Baryons, like the neutron and the proton, are composite particles made up of elementary quarks and gluons, interacting very strongly with each other.
