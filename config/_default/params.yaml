@@ -1,135 +1,91 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# ══════════════════════════════════════════════════════════════════════════════
+# HUGO BLOX CONFIGURATION
+# Schema: hugoblox.com/schema/v2
+# Documentation: https://docs.hugoblox.com/
+# ══════════════════════════════════════════════════════════════════════════════
+hugoblox:
+  schema: "2.0"
 
-# Appearance
+  identity:
+    name: "Enrico Rinaldi"
+    organization: ""
+    type: person
+    tagline: ""
+    description: "Enrico Rinaldi — quantum computing, lattice field theory, and computational physics."
+    social:
+      twitter: "enricesena"
 
-theme: ocean
-day_night: true
-font: ''
-font_size: L
+  theme:
+    mode: system
+    pack: "default"
 
-# SEO
+  typography:
+    pack: "academic"
 
-site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+  layout:
+    radius: "md"
+    spacing: "comfortable"
+    avatar_shape: circle
 
-# Contact (edit or remove options as required)
+  header:
+    enable: true
+    style: navbar
+    sticky: true
+    align: center
+    search: true
+    theme_toggle: true
+    theme_picker: false
+    language_switcher: false
+    cta:
+      enable: false
 
-email: erinaldi.work@gmail.com
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/enricesena'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:enricesena?call'
+  footer:
+    style: minimal
+    language_switcher: false
+    text: ""
 
+  copyright:
+    notice: "© {year} {name}"
+    license:
+      type: custom
 
-# Site header
+  seo:
+    title: ""
+    ai:
+      allow:
+        - /
+      disallow: []
+      note: ""
+      contact: ""
 
-main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+  content:
+    math:
+      enable: true
+    toc:
+      enable: true
+    reading_time:
+      enable: false
+    citations:
+      style: apa
 
-# Localization
+  search:
+    enable: true
+    suggestions: []
+    quick_actions: []
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+  comments:
+    enable: false
 
-# Site features
+  repository:
+    enable: false
 
-highlight: true
-highlight_languages:
-  - python
-math: true
-diagram: true
-privacy_pack: false
-edit_page:
-  repo_url: ''
-  content_dir: ''
-  repo_branch: master
-  editable:
-    page: false
-    post: false
-    book: false
-show_related:
-  book: true
-  page: false
-  post: true
-  project: true
-  publication: true
-  event: true
-reading_time: true
-section_pager: false
-docs_section_pager: true
-sharing: true
-copyright_license:
-  enable: false
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
-abstract_length: 135
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: Jan 2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-comments:
-  provider: ''
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: ''
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  branch: master
-  local_backend: false
-icon:
-  pack:
-    ai: true
+  locale:
+    date_format: "Jan 2, 2006"
+    time_format: "3:04 PM"
+    address_format: en-us
+
+  security:
+    frame_options: sameorigin
+
+  privacy:
+    enable: false

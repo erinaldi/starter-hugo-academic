@@ -1,0 +1,56 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Enrico Rinaldi
+  given: Enrico
+  family: Rinaldi
+role: Senior R&D Manager
+bio: |
+  I am a Senior R&D Manager at Quantinuum in London. I am also a Visiting
+  Scientist at the RIKEN Center for Quantum Computing (Theory Unit) and an
+  Honorary Senior Lecturer in the School of Mathematical Sciences at
+  Queen Mary University of London.
+
+affiliations:
+  - name: Quantinuum
+    url: https://www.quantinuum.com/
+  - name: RIKEN Center for Quantum Computing
+    url: https://rqc.riken.jp/en/
+  - name: Queen Mary University of London
+    url: https://www.qmul.ac.uk/maths/
+
+links:
+  - icon: at-symbol
+    url: mailto:erinaldi.work@gmail.com
+    label: E-mail Me
+  - icon: brands/x
+    url: https://x.com/enricesena
+  - icon: brands/github
+    url: https://github.com/erinaldi
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/erinaldi2
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=zxraLMsAAAAJ
+  - icon: academicons/inspire
+    url: https://inspirehep.net/author/profile/E.Rinaldi.1
+
+interests:
+  - Quantum Computing
+  - Quantum Algorithms
+  - Hamiltonian Simulation
+  - Lattice Gauge Theories
+  - Particle and Nuclear Physics
+  - Quantum Gravity and Matrix Models
+  - Machine Learning for Physics
+
+education:
+  - degree: PhD in Theoretical Particle Physics
+    institution: University of Edinburgh
+    year: 2013
+  - degree: MSc in Theoretical Physics
+    institution: University of Milan
+    year: 2009
+  - degree: BSc in Physics
+    institution: University of Milan
+    year: 2007

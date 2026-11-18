@@ -1,11 +1,9 @@
 ---
-cms_exclude: true
-
-# To publish author profile pages, remove all of the `_build` and `cascade` settings below.
-_build:
+# Author profile pages are not published. Remove `build` and `cascade` to publish them.
+build:
   render: never
 cascade:
-  _build:
+  build:
     render: never
     list: always
 ---
