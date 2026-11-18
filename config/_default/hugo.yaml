@@ -1,0 +1,60 @@
+# Configuration of Hugo
+# Guide: https://docs.hugoblox.com/tutorial/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+
+# Website name (set in params.yaml under hugoblox.identity.name)
+title: ''
+# Website URL (Netlify overrides this with `-b $URL` at build time)
+baseURL: 'https://erinaldi-1.netlify.app/'
+
+############################
+## LANGUAGE
+############################
+
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+
+############################
+## ADVANCED
+############################
+
+build:
+  writeStats: true
+enableGitInfo: false
+summaryLength: 30
+pagination:
+  pagerSize: 10
+enableEmoji: true
+enableRobotsTXT: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles: ['\.ipynb$', '\.ipynb_checkpoints$', '\.Rmd$', '\.Rmarkdown$', '_cache$']
+disableAliases: true
+outputs:
+  home: [HTML, RSS, headers, redirects, backlinks]
+  section: [HTML, RSS]
+imaging:
+  resampleFilter: lanczos
+  anchor: smart
+  jpeg:
+    quality: 85
+  webp:
+    quality: 85
+    hint: picture
+timeout: 600000
+taxonomies:
+  author: authors
+  tag: tags
+  publication_type: publication_types
+markup:
+  _merge: deep
+  highlight:
+    lineNos: false
+security:
+  _merge: deep
+  exec:
+    # Hugo >= 0.170 no longer allows the Tailwind CLI by default; HugoBlox needs it for css.TailwindCSS.
+    allow: ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$']
+sitemap:
+  _merge: deep

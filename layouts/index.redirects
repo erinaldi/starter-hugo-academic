@@ -1,0 +1,67 @@
+# Netlify redirects
+# Automatically generated (local override of HugoBlox integrations/netlify `index.redirects`).
+# Documentation: https://docs.netlify.com/routing/redirects/
+#
+# Legacy URLs from the Wowchemy v5 site (2021-2026) -> new HugoBlox sections.
+/publication/*        /publications/:splat     301
+/project/*            /projects/:splat         301
+/event                /events/                 301
+/event/*              /events/:splat           301
+# Tags renamed/merged in the 2026 migration (must precede the /tag/* rule)
+/tag/supernovae/                                        /tags/type-ia-supernovae/                301
+/tag/evolution/                                         /publications/                           301
+/tag/gravity/                                           /publications/                           301
+/tag/hubble/                                            /tags/hubble-tension/                    301
+/tag/ia/                                                /publications/                           301
+/tag/modified/                                          /tags/modified-gravity/                  301
+/tag/tension/                                           /tags/hubble-tension/                    301
+/tag/theories/                                          /publications/                           301
+/tag/physics/                                           /publications/                           301
+/tag/lattice/                                           /tags/lattice-field-theory/              301
+/tag/gauge-gravity-correspondence/                      /tags/gauge-gravity-duality/             301
+/tag/lattice-quantum-field-theory/                      /tags/lattice-field-theory/              301
+/tag/matrix-mod/                                        /tags/matrix-models/                     301
+/tag/beyond-standard-model/                             /tags/beyond-the-standard-model/         301
+/tag/compos/                                            /tags/composite-higgs/                   301
+/tag/conformal/                                         /tags/conformal-symmetry/                301
+/tag/finitet/                                           /tags/finite-temperature/                301
+/tag/nf8/                                               /tags/nf--8/                             301
+/tag/nuclear/                                           /tags/nuclear-physics/                   301
+/tag/duality/                                           /tags/gauge-gravity-duality/             301
+/tag/gauge/                                             /publications/                           301
+/tag/scalar/                                            /tags/light-scalar/                      301
+/tag/nf12/                                              /tags/nf--12/                            301
+/tag/sigma/                                             /tags/sigma-meson/                       301
+/tag/deconfinement-transition/                          /tags/deconfinement/                     301
+/tag/large-n-c-limit/                                   /tags/large-n-limit/                     301
+/tag/lattice-gauge/                                     /tags/lattice-gauge-theory/              301
+/tag/n-c/                                               /publications/                           301
+/tag/su/                                                /publications/                           301
+/tag/yang-mills-theories/                               /tags/yang-mills-theory/                 301
+/tag/high-energy-physics-lattice/                       /tags/hep-lat/                           301
+/tag/high-energy-physics-phenomenology/                 /tags/hep-ph/                            301
+/tag/high-energy-physics-theory/                        /tags/hep-th/                            301
+/tag/%C5%82ambdacdm/                                    /tags/%CE%BBcdm/                         301
+/tag/matrix-theories/                                   /tags/matrix-models/                     301
+/tag/academic/                                          /                                        301
+/tag/%E5%BC%80%E6%BA%90/                                /                                        301
+/tag/*                /tags/:splat             301
+/publication-type/*   /publications/           301
+/publication_types/*  /publications/           301
+/category/*           /                        301
+/categories           /                        301
+/categories/*         /                        301
+/post                 /                        301
+/post/*               /                        301
+/slides/*             /                        301
+/admin                /                        301
+/admin/*              /                        301
+/author/*             /                        301
+# Per-page aliases (front matter `aliases:`)
+{{- range $s := hugo.Sites -}}
+{{- range $page := where $s.Pages ".Aliases" "!=" nil -}}
+{{- range $page.Aliases }}
+{{ . }} {{ $page.RelPermalink }} 301
+{{- end }}
+{{- end }}
+{{- end }}

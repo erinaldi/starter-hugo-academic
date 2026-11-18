@@ -1,21 +1,29 @@
+# Netlify build configuration for the HugoBlox (Hugo + Tailwind v4) site.
+# Netlify downloads the Hugo extended binary matching HUGO_VERSION.
+# Netlify runs `pnpm install` automatically because pnpm-lock.yaml is present.
+
 [build]
-  command = "hugo --gc --minify -b $URL"
+  command = "hugo --gc --minify -b $URL && pnpm run pagefind"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.87.0"
+  HUGO_VERSION = "0.170.1"
+  GO_VERSION = "1.24.7"
+  NODE_VERSION = "22"
   HUGO_ENABLEGITINFO = "true"
+  # Never enforce a frozen lockfile in Netlify's implicit install step
+  PNPM_FLAGS = "--no-frozen-lockfile"
 
 [context.production.environment]
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL && pnpm run pagefind"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL && pnpm run pagefind"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
-    debug = true
+    debug = false

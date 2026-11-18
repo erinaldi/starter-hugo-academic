@@ -1,0 +1,102 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Enrico Rinaldi
+  given: Enrico
+  family: Rinaldi
+role: Senior R&D Manager
+bio: |
+  I am a Senior R&D Manager at Quantinuum in London. I am also a Visiting
+  Scientist at the RIKEN Center for Quantum Computing (Theory Unit) and an
+  Honorary Senior Lecturer in the School of Mathematical Sciences at
+  Queen Mary University of London.
+
+affiliations:
+  - name: Quantinuum
+    url: https://www.quantinuum.com/
+  - name: RIKEN Center for Quantum Computing
+    url: https://rqc.riken.jp/en/
+  - name: Queen Mary University of London
+    url: https://www.qmul.ac.uk/maths/
+
+links:
+  - icon: at-symbol
+    url: mailto:erinaldi.work@gmail.com
+    label: E-mail Me
+  - icon: brands/x
+    url: https://x.com/enricesena
+  - icon: brands/github
+    url: https://github.com/erinaldi
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/erinaldi2
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=zxraLMsAAAAJ
+  - icon: academicons/inspire
+    url: https://inspirehep.net/author/profile/E.Rinaldi.1
+
+interests:
+  - Quantum Computing
+  - Quantum Algorithms
+  - Hamiltonian Simulation
+  - Lattice Gauge Theories
+  - Particle and Nuclear Physics
+  - Quantum Gravity and Matrix Models
+  - Machine Learning for Physics
+
+experience:
+  - role: Senior R&D Manager
+    org: Quantinuum
+    start: 2022-11-01
+  - role: Honorary Senior Lecturer
+    org: School of Mathematical Sciences, Queen Mary University of London
+    start: 2025-12-01
+  - role: Visiting Scientist
+    org: RIKEN Center for Quantum Computing (Theory Unit)
+    start: 2022-11-01
+  - role: Research Scientist
+    org: University of Michigan
+    start: 2021-03-01
+    end: 2022-11-30
+  - role: Visiting Research Scientist
+    org: Theoretical Quantum Physics Laboratory, RIKEN Cluster for Pioneering Research
+    start: 2021-03-01
+    end: 2025-06-30
+  - role: AI Researcher/Engineer
+    org: Arithmer Inc., Tokyo
+    start: 2019-10-01
+    end: 2021-02-28
+  - role: Visiting Research Scientist
+    org: RIKEN Interdisciplinary Theoretical and Mathematical Sciences Program (iTHEMS)
+    start: 2019-09-30
+    end: 2025-06-30
+  - role: Special Postdoctoral Research Fellow
+    org: RIKEN Nishina Center
+    start: 2019-04-01
+    end: 2019-09-30
+  - role: Special Postdoctoral Research Fellow
+    org: RIKEN BNL Research Center
+    start: 2016-10-01
+    end: 2019-03-31
+  - role: Postdoctoral Researcher
+    org: Lawrence Livermore National Laboratory
+    start: 2013-10-01
+    end: 2016-09-30
+  - role: JSPS Short-term Fellow
+    org: Kobayashi-Maskawa Institute, Nagoya University
+    start: 2012-04-01
+    end: 2012-12-31
+
+education:
+  - degree: PhD in Theoretical Particle Physics
+    institution: University of Edinburgh
+    year: 2013
+    end: '2013'
+  - degree: MSc in Theoretical Physics
+    institution: University of Milan
+    year: 2009
+    end: '2009'
+  - degree: BSc in Physics
+    institution: University of Milan
+    year: 2007
+    end: '2007'

@@ -1,7 +1,8 @@
-module github.com/wowchemy/starter-hugo-academic
+module github.com/erinaldi/starter-hugo-academic
 
-go 1.15
+go 1.19
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/v5 v5.3.0
+	github.com/HugoBlox/kit/modules/blox v0.12.0 // indirect
+	github.com/HugoBlox/kit/modules/integrations/netlify v1.3.0 // indirect
 )
