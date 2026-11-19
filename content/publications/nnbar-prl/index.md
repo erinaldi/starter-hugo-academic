@@ -1,4 +1,5 @@
 ---
+aliases: ['/publications/rinaldi-2018-a/', '/publication/rinaldi-2018-a/']
 title: Neutron-antineutron oscillations from lattice QCD
 date: 2019-04-22T00:00:00Z
 authors:

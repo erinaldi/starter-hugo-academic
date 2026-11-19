@@ -1,12 +1,13 @@
 ---
-title: Nucleon Higher Partial-Wave Scattering from Lattice QCD.
+aliases: ['/publications/berkowitz-2017-f/', '/publication/berkowitz-2017-f/']
+title: Two-nucleon higher partial-wave scattering from lattice QCD
 date: 2017-02-10T00:00:00Z
 authors:
-  - me
   - Evan Berkowitz
   - Thorsten Kurth
   - Amy Nicholson
   - Balint Joo
+  - me
   - Mark Strother
   - Pavlos M. Vranas
   - Andre Walker-Loud

@@ -1,4 +1,5 @@
 ---
+aliases: ['/publications/chang-2018/', '/publication/chang-2018/']
 title: "A per-cent-level determination of the nucleon axial coupling from quantum chromodynamics"
 date: "2018-05-30T00:00:00.000Z"
 authors:

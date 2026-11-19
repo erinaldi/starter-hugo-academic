@@ -2,6 +2,15 @@
 # Automatically generated (local override of HugoBlox integrations/netlify `index.redirects`).
 # Documentation: https://docs.netlify.com/routing/redirects/
 #
+# Per-page aliases (front matter `aliases:`); listed first so they win over the wildcards below
+{{- range $s := hugo.Sites -}}
+{{- range $page := where $s.Pages ".Aliases" "!=" nil -}}
+{{- range $page.Aliases }}
+{{ . }} {{ $page.RelPermalink }} 301
+{{- end }}
+{{- end }}
+{{- end }}
+#
 # Legacy URLs from the Wowchemy v5 site (2021-2026) -> new HugoBlox sections.
 /publication/*        /publications/:splat     301
 /project/*            /projects/:splat         301
@@ -57,11 +66,3 @@
 /admin                /                        301
 /admin/*              /                        301
 /author/*             /                        301
-# Per-page aliases (front matter `aliases:`)
-{{- range $s := hugo.Sites -}}
-{{- range $page := where $s.Pages ".Aliases" "!=" nil -}}
-{{- range $page.Aliases }}
-{{ . }} {{ $page.RelPermalink }} 301
-{{- end }}
-{{- end }}
-{{- end }}
